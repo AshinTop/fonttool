@@ -1,0 +1,62 @@
+# close
+e5cd
+# skip_previous
+e045
+# skip_next
+e044
+# games
+e021
+# dark_mode
+e51c
+# light_mode
+e518
+# question_mark
+eb8b
+# keyboard_arrow_up
+e316
+# visibility_off
+e8f5
+# visibility
+e8f4
+# arrow_back_ios
+e5e0
+# expand_more
+e5cf
+# circle
+ef4a
+# chevron_right
+e5cc
+# sentiment_dissatisfied
+e811
+# filter_b_and_w
+e3db
+# warning
+e002
+# cancel
+e5c9
+# content_copy
+e14d
+# delete
+e872
+# task_alt
+e2e6
+# unpublished
+f236
+# chat
+e0b7
+# search
+e8b6
+# fiber_manual_record
+e061
+# east
+f1df
+# keyboard_double_arrow_left
+eac3
+# arrow_upward
+e5d8
+# arrow_downward
+e5db
+# help_outline
+e8fd
+# error
+e000
