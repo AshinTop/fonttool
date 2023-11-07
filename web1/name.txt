@@ -1,62 +1,62 @@
 # close
-close
+uniE5CD
 # skip_previous
-skip_previous
+uniE045
 # skip_next
-skip_next
+uniE044
 # games
-games
+uniE021
 # dark_mode
-dark_mode
+uniE51C
 # light_mode
-light_mode
+uniE518
 # question_mark
-question_mark
+uniEB8B
 # keyboard_arrow_up
-keyboard_arrow_up
+uniE316
 # visibility_off
-visibility_off
+uniE8F5
 # visibility
-visibility
+uniE8F4
 # arrow_back_ios
-arrow_back_ios
+uniE5E0
 # expand_more
-expand_more
+uniE5CF
 # circle
-circle
+uniEF4A
 # chevron_right
-chevron_right
+uniE5CC
 # sentiment_dissatisfied
-sentiment_dissatisfied
+uniE811
 # filter_b_and_w
-filter_b_and_w
+uniE3DB
 # warning
-warning
+uniE002
 # cancel
-cancel
+uniE5C9
 # content_copy
-content_copy
+uniE14D
 # delete
-delete
+uniE872
 # task_alt
-task_alt
+uniE2E6
 # unpublished
-unpublished
+uniF236
 # chat
-chat
+uniE0B7
 # search
-search
+uniE8B6
 # fiber_manual_record
-fiber_manual_record
+uniE061
 # east
-east
+uniF1DF
 # keyboard_double_arrow_left
-keyboard_double_arrow_left
+uniEAC3
 # arrow_upward
-arrow_upward
+uniE5D8
 # arrow_downward
-arrow_downward
+uniE5DB
 # help_outline
-help_outline
+uniE8FD
 # error
-error
+uniE000
