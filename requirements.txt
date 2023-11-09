@@ -1,1 +1,3 @@
-fonttools
+fonttools==4.43.1
+Brotli==1.1.0
+uharfbuzz

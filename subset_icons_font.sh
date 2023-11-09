@@ -27,4 +27,5 @@ python "$ROOT/generate_icons.py"
 
 cp "$ROOT/icons.ts" "$GIT_ROOT/src/config/"
 
+cp "$ROOT/icons.scss" "$GIT_ROOT/src/css/"
 exit 0

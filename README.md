@@ -8,7 +8,7 @@ https://fonttools.readthedocs.io/en/latest/developer.html
 
 ```
 pip install fonttools # 字体工具
-pip install brotil    # 制作 woff2 格式所需
+pip install Brotli    # 制作 woff2 格式所需
 ```
 
 ## 文件说明
